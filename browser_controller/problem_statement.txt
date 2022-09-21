@@ -1,0 +1,15 @@
+Browser automation without using automation frameworks. let's say two browsers are installed in the system.
+chrome and firefox.
+3 APIs would be hit by specifying the browser name to which that action need to taken.
+
+Task is to create these 4 apis and should work via any browser UI.
+
+1. clear cache and history of the given browser.
+ex -> /clear?app=firefox
+
+2. to open a given URL in the given browser.
+ex -> /open?app=firefox&url=https://www.google.com
+
+3. to close the browser.
+ex -> /close?app=chrome
+
