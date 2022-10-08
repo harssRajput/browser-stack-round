@@ -38,3 +38,11 @@ ex -> /open?app=firefox&url=https://www.google.com
 
 3. to close the browser.
 ex -> /close?app=chrome
+
+
+‐---------------IMPORTANT NOTE-------------------
+First question working fine in functionality. Although there may be some issues in this.
+One that i remember is, when new client opens url in browser and then close it after that its related id is still accumulated in the array object which should be deleted.
+
+In second browser automation question,
+The first two apis are complete but others are incomplete.
