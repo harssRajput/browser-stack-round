@@ -1,4 +1,4 @@
-# browser-stack-machine-coding-round
+# browser-stack-round
 It contains two machine coding questions.
 
 ----------First Question-----------
